@@ -6,4 +6,4 @@
 
 ### 📦 Repository
 [Github](https://github.com/zero-to-mastery/Canvaz) <br />
-[Live](https://zero-to-mastery.github.io/Canvaz/)
+[Live](https://zero-to-mastery.github.io/Canvaz/art/MLousdal/toast.html)
